@@ -36,3 +36,11 @@ Para executar o jogo localmente, siga estas etapas:
 1. Clone este repositório:
    ```sh
    git clone https://github.com/oadluis/descubra-o-numero.git
+
+## Contato
+
+Para mais informações, entre em contato pelo email: andre.barbosa.1390@gmail.com.
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
