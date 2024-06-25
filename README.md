@@ -40,7 +40,3 @@ Para executar o jogo localmente, siga estas etapas:
 ## Contato
 
 Para mais informações, entre em contato pelo email: andre.barbosa.1390@gmail.com.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
