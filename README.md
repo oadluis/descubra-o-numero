@@ -1,5 +1,3 @@
-# descubra-o-numero
-
 # Descubra o Número
 
 ## Descrição
